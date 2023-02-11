@@ -5,7 +5,6 @@ import numpy as np
 import pickle
 import os
 import os.path
-import email
 import matplotlib.pyplot as plt
 import sys
 
