@@ -12,7 +12,7 @@ import sys
 def resource_path(relative_path):
     if hasattr(sys, '_MEIPASS'):
         return os.path.join(sys._MEIPASS, relative_path)
-    return os.path.join(os.path.abspath("./data"), relative_path)
+    return relative_path
   
 def getEmails(sortedcounts=None, max_results=500):
     # Define the SCOPES. If modifying it, delete the token.pickle file.
