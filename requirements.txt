@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+numpy
+pickle
+matplotlib
+PyQt6
