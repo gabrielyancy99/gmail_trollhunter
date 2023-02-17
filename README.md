@@ -18,7 +18,7 @@ To run the application locally first clone the repository to your personal machi
 
 To open the preconfigured application built with PyQt enter:
 
-'python gmail_trollhunter_pyqt.py' | 'python3 gmail_trollhunter_pyqt.py' | double click `gmail_trollhunter_pyqt.py`
+`python gmail_trollhunter_pyqt.py` | `python3 gmail_trollhunter_pyqt.py` | double click `gmail_trollhunter_pyqt.py`
 
 ## Program Description
 
